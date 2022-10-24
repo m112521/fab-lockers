@@ -8,4 +8,4 @@ Libraries to be installed in Arduino IDE:
 1. [AmperkaFET](https://github.com/amperka/AmperkaFET)
 2. [Adafruit-PN532](https://github.com/adafruit/Adafruit-PN532)
 
-![Poster](photos/DSC02953.jpg)
+![Poster](photos/DSC02953.JPG)
