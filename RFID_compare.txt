@@ -13,7 +13,7 @@
 // поэтому передаём цифру, большая чем любой пин Arduino
 Adafruit_PN532 nfc(PN532_IRQ, 100);
 
-uint8_t uid0[] = {0xB3, 0x42, 0x0A, 0x4B};
+uint8_t uid0[] = {0xC3, 0xD2, 0x0A, 0x2B};
 uint8_t uid1[] = {};
 uint8_t uid2[] = {};
 uint8_t uid3[] = {};
@@ -76,4 +76,5 @@ void loop(void)
     Serial.println("");
     delay(1000);
   }
+
 }
